@@ -1,5 +1,19 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ <h1>Hi 👋, I'm Georgi Vasilev</h1>
+  
+---
+### :woman_technologist: About Me :
+
+<div style: "list-style-type: none;" ></div>
+👀 I’m interested in Web Development <br/>
+🌱 I’m currently learning C# Front End in SoftUni <br/>
+🔭 I'm very motivated and I'm improving every day <br/>
+💞️ I’m looking to collaborate! <br/>
+
+---
+ <h3 align="center">Connect with me:</h3>
+ <img src="https://media.giphy.com/media/w6ECVXRl2YO3QL82j1/giphy.gif" width="80px"/>
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/georgi-vasilev-65b272297/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,22 +26,11 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=GeorgiVasilevv&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
----
-
-### :woman_technologist: About Me :
-- 👋 Hi, I’m @GeorgiVasilevv
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C# Web in SoftUni
-- 💞️ I’m looking to collaborate!
 
 ---
 
