@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <h1>Hi 👋, I'm Georgi Vasilev</h1>
   
----
+
 ### :woman_technologist: About Me :
 
 <div style: "list-style-type: none;" ></div>
