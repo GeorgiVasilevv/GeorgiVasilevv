@@ -30,7 +30,7 @@
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<img src="https://www.lambdatest.com/resources/images/news24.gif" width="732px" height="348px"/>
 </div>
 
 ---
