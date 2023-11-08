@@ -7,8 +7,9 @@
 <div style: "list-style-type: none;" ></div>
 👀 I’m interested in Web Development <br/>
 🌱 I’m currently learning C# Front End in SoftUni <br/>
+👨🏻‍💻 I’m currently working on Algona LTD's transport website. <br/>
 🔭 I'm very motivated and I'm improving every day <br/>
-💞️ I’m looking to collaborate! <br/>
+💞️ I’m looking to collaborate! Just click on my Gmail badge! <br/>
 
 ---
  <h3 align="center">Connect with me:</h3>
