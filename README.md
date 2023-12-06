@@ -2,7 +2,7 @@
  <h1>Hi 👋, I'm Georgi Vasilev</h1>
   
 
-### :woman_technologist: About Me :
+### 👨‍💻 About Me :
 
 <div style: "list-style-type: none;" ></div>
 👀 I’m interested in Web Development. <br/>
