@@ -6,8 +6,7 @@
 
 <div style: "list-style-type: none;" ></div>
 👀 I’m interested in Web Development. <br/>
-🌱 I’m currently studing in the Faculty of Mathematics and Informatics. <br/>
-👨🏻‍💻 I’m currently studying for my state matriculation exam. <br/>
+👨🏻‍💻 I’m currently studing in the Faculty of Mathematics and Informatics. <br/>
 🔭 I'm very motivated and I'm improving every day. <br/>
 💞️ I’m looking to collaborate! Just click on my Gmail badge! <br/>
 
