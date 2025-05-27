@@ -12,7 +12,7 @@
 
 ---
  <h3 align="center">Connect with me:</h3>
- <img src="https://media.giphy.com/media/w6ECVXRl2YO3QL82j1/giphy.gif" width="80px"/>
+ <img src="https://assets-v2.lottiefiles.com/a/6878e098-1168-11ee-8e91-a32e13939d51/BJV4LXnWPr.gif" width="80px"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/georgi-vasilev-65b272297/">
