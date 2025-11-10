@@ -12,8 +12,6 @@
 
 ---
  <h3 align="center">Connect with me:</h3>
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZkMzNwM3luM3IwcWsxaWV6ZGE0Y3ZudGFoYWo2enRmeHEwOGhybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KG4PMQ0jyimywxNt8i/giphy.gif" width="80px"/>
-
   <div id="badges">
     <a href="https://www.linkedin.com/in/georgi-vasilev-65b272297/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
